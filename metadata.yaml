@@ -1,0 +1,32 @@
+_repo: At-the-Sign-of-the-Golden-Fleece-b-A-Story-of-Reformation-Days_71012
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leslie, Emma
+    aliases:
+    - Dixon, Emma
+    - Boultwood, Emma
+    birthdate: 1838
+    deathdate: 1909
+    gutenberg_agent_id: '8498'
+    url: http://www.gutenberg.org/2009/agents/8498
+    wikipedia: https://en.wikipedia.org/wiki/Emma_Leslie
+description: ''
+gutenberg_issued: '2023-06-21'
+identifiers:
+  gutenberg: '71012'
+language: en
+pgterms:marc905: 20230613092032leslie
+pgterms:marc906: '1900'
+pgterms:marc907: GB
+publication_note: '  $aUnited Kingdom :$bGall and Inglis, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Reformation -- England -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'At the "Sign of the Golden Fleece" : $b A Story of Reformation Days'
+url: http://www.gutenberg.org/ebooks/71012
